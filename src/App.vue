@@ -1,13 +1,13 @@
 <template>
   <nav>
-    <a href="/" class="logo">
+    <a href="" class="logo">
       Logo
     </a>
     <ul class="menu">
-      <li class="active"><a href="#main">Home</a></li>
-      <li><a href="#discover">Discover</a></li>
-      <li><a href="#register">Register</a></li>
-      <li><a href="#">🔍</a></li>
+      <li class="active"><a href="">Home</a></li>
+      <li><a href="">Discover</a></li>
+      <li><a href="">Register</a></li>
+      <li><a href="">🔍</a></li>
     </ul>
   </nav>
   <div class="main">
